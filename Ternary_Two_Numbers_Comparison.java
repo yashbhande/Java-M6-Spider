@@ -1,5 +1,5 @@
-// Define a class named Ternary_Two_Operands
-class Ternary_Two_Operands {
+// Define a class named Ternary_Two_Operands_Changed
+class Ternary_Two_Operands_Changed {
     // Main method
     public static void main(String[] args) {
         
