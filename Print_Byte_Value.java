@@ -1,5 +1,5 @@
-// Class declaration for the Print_Byte_Program class.
-class Print_Byte_Program {
+// Define a class named Print_Byte_Value
+class Print_Byte_Value {
 
     // Main method declaration.
     public static void main(String[] pbp) {
@@ -8,7 +8,11 @@ class Print_Byte_Program {
         byte variable1 = 20;
 
         // Printing the value of the byte variable.
-        System.out.println(variable1);
+        System.out.println(variable1); // Expected output: 20
+
+        // Byte range: -128 to 127
+        // Since 20 falls within the byte range, both compile time and run time are expected to be successful.
+
     }
 }
 
