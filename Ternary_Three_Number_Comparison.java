@@ -1,5 +1,5 @@
-// Define a class named Ternary_Three_Operands
-class Ternary_Three_Operands {
+// Define a class named Ternary_Three_Number_Comparison
+class Ternary_Three_Number_Comparison {
     // Main method
     public static void main(String[] args) {
         
