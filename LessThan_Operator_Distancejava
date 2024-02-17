@@ -1,0 +1,15 @@
+class LessThan_Operator_Distance {
+    
+    public static void main(String[] args) {
+        // Declare and initialize variables representing distances
+        int distance = 15;
+        int distance1 = 15;
+
+        // Compare distances using the less than operator
+        boolean result = distance < distance1;
+
+        // Print the result of the comparison
+        System.out.println("Distance is less than distance1: " + result);
+        // Expected output: false
+    }
+}
