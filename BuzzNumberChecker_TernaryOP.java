@@ -8,6 +8,13 @@ class BuzzNumberChecker_TernaryOP {
         // Test number
         int number = 10;
 
+        int a=37;
+        String result1 = (a % 7 == 0)?("Buzz Number"):
+                         (a % 10 == 7)?("Buzz Number"):
+                         ("Not an Buzz Number");
+                 
+        System.out.println(result1);
+        
         // Checking if the number is a two-digit number
         String result = (number >= 10 && number <= 99) ? (
                 // Checking if the number satisfies the Buzz Number conditions
