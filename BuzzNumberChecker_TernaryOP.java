@@ -1,6 +1,7 @@
-// This program checks if a number is a "Buzz Number" according to the following conditions:
-// 1) The number is divisible by 7
-// 2) The last digit of the number is 7
+/* This program checks if a number is a "Buzz Number" according to the following conditions:
+ 1) The number is divisible by 7
+ 2) The last digit of the number is 7
+*/
 
 class BuzzNumberChecker_TernaryOP {
     public static void main(String[] args) {
