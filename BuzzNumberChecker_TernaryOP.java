@@ -22,7 +22,7 @@ class BuzzNumberChecker_TernaryOP {
                 (number % 7 == 0 || number % 10 == 7) ? ("Buzz Number") : ("Not a Buzz Number") // Logic for checking Buzz Number: Divisible by 7 or last digit is 7
         ) : ("Not a Correct Number"); // If not a two-digit number, it's not a correct number
 
-        // Output the result
+        // Output result
         System.out.println(result); // Output: Not a Correct Number
     }
 }
