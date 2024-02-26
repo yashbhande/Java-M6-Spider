@@ -1,0 +1,12 @@
+/Program to calculate 1-10 digits (Natural Numbers) addition 
+
+public class NaturalNumber {
+
+    public static void main(String[] args) {
+        // Calculate the sum using a formula (n * (n + 1)) / 2
+        int n = 10; // Change this to your desired upper limit
+        int sum = (n * (n + 1)) / 2;
+
+        System.out.println("The sum of natural numbers from 1 to " + n + " is: " + sum);
+    }
+}
