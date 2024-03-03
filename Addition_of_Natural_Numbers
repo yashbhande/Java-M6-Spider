@@ -10,3 +10,5 @@ public class NaturalNumber {
         System.out.println("The sum of natural numbers from 1 to " + n + " is: " + sum);
     }
 }
+
+//
