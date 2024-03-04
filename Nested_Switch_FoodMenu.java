@@ -1,5 +1,5 @@
 class Nested_Switch_FoodMenu {
-    // Simulates a menu system for selecting food and drinks using nested switch statements for category and item selection.
+    // Menu system for selecting food and drinks using nested switch statements for category and item selection.
 
     public static void main(String[] args) {
         int category = 2;
@@ -73,3 +73,9 @@ class Nested_Switch_FoodMenu {
         }
     }
 }
+
+/* Output 
+Outer Case 2 Executed !!!
+Inner Case 3 Executed !!!
+Samosa
+*/
