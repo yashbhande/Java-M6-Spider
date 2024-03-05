@@ -1,0 +1,18 @@
+// Questions are regarding conditional statements ... if, if-else, else-if, switch
+
+1. Which dataypes are allowded in switch statement
+2.Which dataypes are not allowded in switch statement
+1. What is the purpose of the if statement in programming?
+4. Explain the difference between if and if-else.
+11. What is the switch statement used for?
+13. What is the purpose of the break statement in a switch case?
+16. What happens if there is no break statement in a switch case?
+17. Explain the role of the switch statement compared to if-else.
+19. Can you use expressions in switch cases?
+20. What are the advantages of using a switch statement over if-else?
+24. How do you handle fall-through cases in a switch statement?
+25. Can you use strings as case labels in a switch statement?
+31. What is the difference between the "if" statement and the "else-if" statement?
+39. What is the purpose of the "default" case in a switch statement?
+42. Can you use a variable as a case label in a switch statement?
+43. Explain the concept of "fall-through" in switch cases.
