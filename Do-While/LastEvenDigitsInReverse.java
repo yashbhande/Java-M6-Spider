@@ -1,9 +1,7 @@
-Certainly! Here's the updated code with detailed comments and the output included as a comment:
 
-```java
-// This class demonstrates how to print the even digits of a number in reverse order.
+// how to print the even digits of a number in reverse order.
 
-class LastEvenDigits {
+class LastEvenDigitsInReverse {
     public static void main(String[] args) {
         int remainder = 0; // Variable to store the remainder when dividing by 10
         int number = 1234; // The number whose even digits are to be printed in reverse
@@ -22,11 +20,10 @@ class LastEvenDigits {
             }
         } while (number > 0); // Continue the loop until the number becomes 0
         
-        // Output:
-        // 4
-        // 2
+        
     }
 }
-```
-
-Now the code includes detailed comments explaining each part of the program's functionality, along with the output included as a comment at the end.
+/* Output
+    4
+    2
+*/
