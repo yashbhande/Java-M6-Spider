@@ -1,0 +1,41 @@
+Programs 
+
+
+
+10: write a java programm to check if the user given number is divisible by 5  or 7 if divisble by 5 check  if the sum of digits of given number is  also divible or not.
+ if number is divisible by 7 b then  print the alternate digit of  given  number.
+
+
+
+9:write  a program  to take temprature input from user and check if that is suitable for making house or not if house making criteria is
+      condition 1: temprature shuld me more than 25
+                2: temprature shuld   me multiple of 5 and 7
+
+
+8:write a java programm to print  all even multiple of 3 and 5 within ranged of 200.
+
+
+7: write a  programm to take a number from user and  check if the sum of digits of that number  can devide  the user input  number or not   (print divisible if  divisible   if not print  can not devide).
+
+
+
+6:write  a programm  to take user input  year and check if that year is   leap year or not.
+
+
+5:write a programm to  take user input number and  print sum of all natural number  till  user given number
+
+
+4:write a programm to  take user input number  and print the month name related to that of  user given number.
+
+
+3:write a java programm to  take user input and  print the  count of digits in that number.
+
+
+2:WRITE A Java program to  take input  of a number N  and check if the reverse of N is  same as that of   N
+ if yes  print palindrome.
+
+
+1: write a java programm to  check if a person is eligible  for  voting or not?
+    condition
+     1:he shuld be 18+;
+    2:CITIZEN OF INDIA(CHECK WITH CHAR INPUT 'Y' FOR YES 'N' FOR NO);
