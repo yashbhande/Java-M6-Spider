@@ -11,7 +11,9 @@ class PalindromeChecker {
         
         // Loop to reverse the number
         do {
-            num = num / 10; // Remove the last digit from the original number
+                //num = num / 10; // Remove the last digit from the oricginal number
+                // check this line if not working
+            
             int digit = num % 10; // Extract the last digit
             reverse = reverse * 10 + digit; // Append the last digit to the reverse number
             num = num / 10; // Remove the last digit from the original number
