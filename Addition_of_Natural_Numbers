@@ -1,4 +1,4 @@
-/Program to calculate 1-10 digits (Natural Numbers) addition 
+//Program to calculate 1-10 digits (Natural Numbers) addition 
 
 public class SumOfNaturalNumbers {
 
