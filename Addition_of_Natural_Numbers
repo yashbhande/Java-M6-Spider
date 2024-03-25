@@ -8,3 +8,4 @@ public class SumOfNaturalNumbers {
     System.out.println("Sum of natural numbers (1-10): " + sum);
   }
 }
+
