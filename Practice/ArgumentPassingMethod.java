@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 // Class demonstrating method with arguments
-class ArgumentMethod {
+class ArgumentPassingMethod {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
