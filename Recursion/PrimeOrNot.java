@@ -1,4 +1,4 @@
-// Check if a number is prime or not
+// Check if a number is prime or not 
 class PrimeOrNot {
     static int num = 7;   // Number to check for primality
     static int i = 2;     // Divisor starts from 2
