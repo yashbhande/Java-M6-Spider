@@ -1,4 +1,4 @@
-
+ 
 import java.util.Scanner;
 
 // Class demonstrating method with arguments
