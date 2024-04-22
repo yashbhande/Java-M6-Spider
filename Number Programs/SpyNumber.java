@@ -1,7 +1,7 @@
 // This program checks whether a given number is a Spy Number or not.
 // A Spy Number is a number whose sum of digits equals the product of its digits.
 // e.g 123. 1+2+3=6(sum)   1*2*3=6(product)
-// if (sum == product)-----> Spy Number
+// if (sum == product)-----> Spy Number 
 
 import java.util.Scanner;
 
