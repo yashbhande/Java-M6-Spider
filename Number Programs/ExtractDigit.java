@@ -1,7 +1,7 @@
 /*
 input: 12345
 Output:54321
-*/
+*/ 
 
 import java.util.Scanner;
 
