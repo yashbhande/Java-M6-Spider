@@ -1,6 +1,6 @@
 // Factors of Number 
 // Num: 12 factors ------> 1,2,3,4,6,12
-// Integer that divides the number exactly, leaving no remainder. 
+// Integer that divides the number exactly, leaving no remainder.  
 
 
 class FactorsOfNumber {
