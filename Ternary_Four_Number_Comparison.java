@@ -3,6 +3,7 @@ class Ternary_Four_Number_Comparison {
     // Main method declaration
     public static void main(String[] args) {
         // Define four variables representing numbers
+
         int num1 = 10, num2 = 20, num3 = 30, num4 = 40;
         
         // Perform nested ternary operations to find the greatest number
