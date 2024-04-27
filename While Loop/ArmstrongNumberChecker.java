@@ -1,4 +1,4 @@
-// Program to check if a number is an Armstrong number
+// Program to check if a number is an Armstrong number 
 
 class ArmstrongNumberChecker {
     public static void main(String[] args) {
