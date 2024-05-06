@@ -1,4 +1,4 @@
-class Animal // Parent class representing an animal
+ class Animal // Parent class representing an animal
 {
     void eat() { System.out.println("Eating..."); } 
 }
