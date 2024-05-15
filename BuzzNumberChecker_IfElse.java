@@ -1,4 +1,4 @@
-// Program to check buzz number or not . Check using if-else statement.
+ // Program to check buzz number or not . Check using if-else statement.
 
 
 public class BuzzNumberChecker_IfElse {
