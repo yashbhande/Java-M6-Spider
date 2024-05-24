@@ -1,4 +1,4 @@
-class Rectangle  // Represents a rectangle and demonstrates data hiding
+class Rectangle  // Represents a rectangle and demonstrates data hiding 
 {
     private double length;  // Private variable for hiding data
     private double breadth; // Private variable for hiding data
