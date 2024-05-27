@@ -3,7 +3,7 @@
 // 1. Take a fixed number (e.g., 1234).
 // 2. Calculate the sum of digits of the given number.
 // 3. Check if the sum of digits can divide the given number.
-// 4. If divisible, print "Divisible"; otherwise, print "Not Divisible".
+// 4. If divisible, print "Divisible";  otherwise, print "Not Divisible".
 
 class DivisibleBySumOfDigits {
     public static void main(String[] args) {
