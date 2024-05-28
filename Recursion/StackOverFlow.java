@@ -2,7 +2,8 @@ class StackOverFlow
 {
 	static int a=1;	//Global variable to print incrementing numbers in recursion
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		m1();	//Calling static method
 	}
 
