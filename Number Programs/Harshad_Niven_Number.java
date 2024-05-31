@@ -1,5 +1,5 @@
 // a number which is divisible by sum of its digits is known as "Harshad/Niven Number"
-//e.g 156-> 1+5+6=12    if (156%12==0) ? ("Harshad") : ("Not harshad");
+//e.g 156-> 1+5+6=12    if (156%12==0) ? ("Harshad") : ("Not harshad"); 
 
 class Harshad_Niven_Number {
     public static void main(String[] args) {
