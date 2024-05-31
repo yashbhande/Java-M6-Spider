@@ -1,4 +1,4 @@
-//Example of Interface
+//Example of Interface 
 
 // Class representing a basic phone with call and SMS functionality
 class Phone {
