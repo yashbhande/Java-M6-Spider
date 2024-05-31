@@ -1,5 +1,5 @@
 //This program demonstrate how compare 3 numbers to find largest amoung them.
-// Approach 1: Logical , Approach 2: Ternary Operator
+// Approach 1: Logical , Approach 2: Ternary Operator 
 
 class LargestOf3Numbers {
     public static void main(String[] args) {
