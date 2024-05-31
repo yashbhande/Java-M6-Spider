@@ -1,4 +1,4 @@
-//This program demonstrate how to count number of digits.
+//This program demonstrate how to count number of digits. 
 
 class CountNumberOfDigits {
     public static void main(String[] args) {
