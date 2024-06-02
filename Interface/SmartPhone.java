@@ -13,7 +13,7 @@ class Phone {
 
 // Interface for camera functionality
 interface Camera {
-    void click();
+    void click(); 
     void record();
 }
 
