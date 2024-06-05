@@ -1,7 +1,7 @@
 class Parent {
     static int b = 20;
 } 
-
+ 
 class Child extends Parent {
     static int a = 10;
 }
