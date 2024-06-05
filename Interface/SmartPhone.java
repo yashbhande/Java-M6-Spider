@@ -10,7 +10,7 @@ class Phone {
         System.out.println("SMS Supported.");
     }
 }
-
+ 
 // Interface for camera functionality
 interface Camera {
     void click(); 
