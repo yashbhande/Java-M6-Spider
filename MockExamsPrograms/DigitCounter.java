@@ -3,7 +3,7 @@
 
 // Class to count the digits in a number
 class DigitCounter {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         int num = 12345; // Number to count the digits in
         int count = 0; // Variable to store the count of digits
         
