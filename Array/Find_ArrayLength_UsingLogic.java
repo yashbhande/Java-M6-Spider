@@ -4,12 +4,12 @@ class Find_ArrayLength_UsingLogic {
     public static void main(String[] args) {
         int a[] = {10,20,3,40,50,60,70}; 
         int length = 0; // To keep Array Length
-
+        System.out.print("Arrey elements are :");
         for (;;) //infinite loop
         {
             try 
             {
-                System.out.println(a[length++]);
+                System.out.print(a[length++]+" ");
             } catch (Exception e) 
             {
                // System.out.println(e.getMessage());
@@ -18,6 +18,7 @@ class Find_ArrayLength_UsingLogic {
         }
 
         // Print the length of the array (subtracting 1 because length was incremented one extra time)
+        System.out.println();
         System.out.println("Length of Arrays is : " + (length - 1));
     }
 }
