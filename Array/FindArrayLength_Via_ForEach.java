@@ -14,3 +14,5 @@ class FindArrayLength_Via_ForEach
         System.out.println("The length of Array is: "+length);
     }
 }
+
+//The length of Array is: 6
