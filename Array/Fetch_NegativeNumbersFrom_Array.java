@@ -15,3 +15,5 @@ class Fetch_NegativeNumbersFrom_Array
         }
     }
 }
+
+//Negative Numbers are :-4 -5 -8 
