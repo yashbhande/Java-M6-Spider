@@ -12,3 +12,11 @@ class FetchingData_FromArray {
         }
     }
 }
+
+/* Output
+Name on position 2 :Amrit
+Yash
+Nish
+Amrit
+Bca
+*/
