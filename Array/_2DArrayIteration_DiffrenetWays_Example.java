@@ -85,3 +85,24 @@ class _2DArrayIteration_DiffrenetWays_Example {
        
     }
 }
+
+/* Output 
+
+[[10, 20], [20, 10, 30], [10, 40]]
+Using which way you would like to fetch this array ?
+1. For Each Loop
+2. For Loop
+3. While Loop
+4. Do While Loop
+Choice option: 2
+10
+20
+
+20
+10
+30
+
+10
+40
+
+*/
