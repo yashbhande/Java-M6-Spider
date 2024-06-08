@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-class ArrayIteration_DiffrenetWays_Example {
+class _3DArrayIteration_DiffrenetWays_Example {
     static Scanner sc= new Scanner(System.in);
     public static void main(String[] args) {
         int arr[][][] = {{{10, 20}}, {{20, 10, 30}}, {{10, 40}}};
