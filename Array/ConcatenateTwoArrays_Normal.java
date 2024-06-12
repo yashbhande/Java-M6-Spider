@@ -13,12 +13,14 @@ class ConcatenateTwoArrays_Normal
         int result[] = new int[length]; // Initializing the result array with the total length
         int pos = 0; // Position index for inserting elements into the result array
 
-        for (int elements : a) { // Loop through each element in the first array
+        for (int elements : a) 
+        { // Loop through each element in the first array
             result[pos] = elements; // Copy element to the result array
             pos++; // Increment position index
         }
 
-        for (int elements : b) { // Loop through each element in the second array
+        for (int elements : b) 
+        { // Loop through each element in the second array
             result[pos] = elements; // Copy element to the result array
             pos++; // Increment position index
         }
