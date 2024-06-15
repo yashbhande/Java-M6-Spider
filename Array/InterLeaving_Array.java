@@ -1,9 +1,9 @@
-Array A : [1, 2, 3, 4]
-Array B : [5, 6, 7]
-Inter Leaving Array : [1, 5, 2, 6, 3, 7, 4]
+// Array A : [1, 2, 3, 4]
+// Array B : [5, 6, 7]
+// Inter Leaving Array : [1, 5, 2, 6, 3, 7, 4]
 
 import java.util.*;
-class ArrayInterleaving {
+class InterLeaving_Array {
     public static void main(String[] args) 
     {
         int a[] = {1, 2, 3, 4};
@@ -14,9 +14,7 @@ class ArrayInterleaving {
         
         int c[] = new int[a.length + b.length];
 
-        
         int pos = 0;// Position tracker for storing elements inside C array
-   
         // Loop through the combined length of both arrays
         for (int i = 0; i < (a.length + b.length); i++) 
         {
