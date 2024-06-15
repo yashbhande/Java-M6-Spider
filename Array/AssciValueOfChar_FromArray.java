@@ -1,5 +1,5 @@
 import java.util.*; // Importing the necessary classes from the java.util package
-
+ 
 class AssciValueOfChar_FromArray 
 {
     public static void main(String[] args) 
