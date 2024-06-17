@@ -1,11 +1,11 @@
-class OwnLengthMethod
+class LengthMethodOwn
 {
     static String a = "Hello"; // Static string variable initialized to "Hello"
     
     public static void main(String[] args) 
     {
         int length = userLength(); // Call method to get length and store it inside length
-        System.out.println(length); // Print the length
+        System.out.println("Length is : " + length); // Print the length
     }
     public static int userLength()   //user defined method to find the length
   {
@@ -25,3 +25,4 @@ class OwnLengthMethod
         return count; // Return the length of the string
     }
 }
+ // Length is : 5
