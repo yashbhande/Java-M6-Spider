@@ -1,4 +1,9 @@
 //Wap find second largest element in the array
+//1. Sort Array
+//2. Find 2nd Largest Element in array (length-2 index)
+// Input: [2, 22, 33, 44, 55]
+// Second largest elemnt is : 44
+
 import java.util.*;
 class SecondLargestElement
 {
@@ -34,9 +39,9 @@ public static void main(String[] args)
 			}
 		}
 	}
-	int temp1=a[a.length-2];
+	int temp1=a[a.length-2]; //(length - 2 Index) to find 2nd highest element in sorted array
 
-	System.out.println(Arrays.toString(a));
-	System.out.println("Second largest elemnt is : "+temp1);
+	System.out.println(Arrays.toString(a));	//print sorted Array
+	System.out.println("Second largest elemnt is : "+temp1); //print 2nd highest elemnt
 }
 }
