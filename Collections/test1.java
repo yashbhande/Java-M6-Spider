@@ -28,8 +28,11 @@ class test1
         System.out.println(a);
 
       //to print all the elements
-        for(int i=0 ; i<a.size() ; i++)
-            System.out.println("Element at index "+i+" : "+a.get(i));
+        // for(int i=0 ; i<a.size() ; i++)
+        //     System.out.println("Element at index "+i+" : "+a.get(i));
+      System.out.println("\n \n All Elements Printed Using Loop :");
+        for(int temp: a)
+            System.out.println(temp);
     }
 }
 
