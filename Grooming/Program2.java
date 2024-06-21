@@ -5,15 +5,15 @@ class Program2
     public static void main(String[] args) 
     {
         // 1. create 2 char variables
-        char num1, num2;
+        char ch1, ch2;
         
         // 2. read data using scanner
         Scanner sc=new Scanner(System.in);
-        num1=sc.next().charAt(0);
-        num2=sc.next().charAt(0);
+        ch1=sc.next().charAt(0);
+        ch2=sc.next().charAt(0);
         
         // 3. logic to find smallest Ascii
-        System.out.println(num1<num2 ? num1 : num2);
+        System.out.println(ch1<ch2 ? ch1 : ch2);
     }
 }
 
