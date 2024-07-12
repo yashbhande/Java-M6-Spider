@@ -3,7 +3,7 @@
 class TechNumberCheck {
     public static void main(String[] args) {
         
-        int num = 2025;
+         int num = 2025;
         int org = num;
         // Variable to count the number of digits
         int count = 0;
