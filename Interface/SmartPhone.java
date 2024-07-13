@@ -4,7 +4,7 @@
 class Phone {
     void call() {
         System.out.println("Calling Supported.");
-    }
+    } 
 
     void sms() {
         System.out.println("SMS Supported.");
