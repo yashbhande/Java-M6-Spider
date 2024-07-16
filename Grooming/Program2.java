@@ -14,7 +14,7 @@ class Program2
         
         // 3. logic to find smallest Ascii
         System.out.println(ch1<ch2 ? ch1 : ch2);
-    }
+    } 
 }
 
 // Input: F, R
