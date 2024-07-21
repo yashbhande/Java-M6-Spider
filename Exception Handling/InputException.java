@@ -1,6 +1,6 @@
 // If the user gave input as 0, an ArithmeticException will occur.
 // If the user gave String input , an InputMismatchException will occur. 
-
+ 
 import java.util.Scanner; 
 
 class InputException
