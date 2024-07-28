@@ -1,7 +1,7 @@
 import java.util.*;
 
 class ConcatenateArrayUsingArrayCopy 
-{
+{  
     public static void main(String[] args) 
   {
         int [] arr1 = {1, 2, 3}; 
