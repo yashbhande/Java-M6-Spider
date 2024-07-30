@@ -2,7 +2,7 @@ class FindElements_inArray {
     public static void main(String[] args) {
         // Initializing an array with integers
         int arr[] = {10, 20, 30, 40, 50, 60, 70}; 
-        
+         
         // Element to find in the array
         int findElements = 770;
         
