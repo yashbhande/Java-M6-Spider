@@ -1,0 +1,12 @@
+---- Creating of React Folder -----
+
+1.Desktop -> Create Folder "React-js-e10" (folder)
+2.Open CMD in that folder
+3.Creates folder of react : "npm create vite@latest"
+4.Enter Project Name : "smaller case"
+5.Select framework : "React"
+6.Select a variant : "JavaScript"
+7.Change Directory to project : "cd projectName"
+8.Install npm : "npm install" (ignore the warnings, wait till finished, will take few minutes)
+9.To run Project : "npm run dev"
+10.Copy URL and enter in browser. Enjoy :)
