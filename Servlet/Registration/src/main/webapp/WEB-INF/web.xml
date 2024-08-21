@@ -1,0 +1,15 @@
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  		
+	<servlet>
+		<servlet-name>RegisterServlet</servlet-name>  //servlet name can be anything
+		<servlet-class>com.qsp.RegisterServlet</servlet-class>	//URL of project
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>RegisterServlet</servlet-name>  //servlet name should be same as before
+		<url-pattern>/reg</url-pattern>	//URL should pattern [/hi] to redirect
+	</servlet-mapping>
+	
+</web-app>
