@@ -1,1 +1,15 @@
 
+1. What is servlet
+2.Why we use Servlet
+3.How to create servlet
+4.Explain init(),service(),destroy()
+5.differecne between HttpServlet and GenericServlet
+6.How to fetch the form data
+7.How to register the servlet
+8.Explain servletContext
+9.Explain servletConfig
+10.Explain servletDispatcher ->include()
+11.What is sendRedirect
+12.Explain ServletLifeCycle
+13.What is session, how to create session in HttpProtocol
+
